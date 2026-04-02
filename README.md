@@ -1,0 +1,2 @@
+# Hydrosense-Intelligent-Water-Level-and-Quality-Monitoring-with-UWB-Based-Flood-Alert-System-
+This project presents an IoT-based real-time water monitoring system designed to enhance safety and environmental awareness in rivers, dams, and reservoirs. It integrates water level detection, pH analysis, and precise distance measurement using Ultra-Wideband (UWB) technology to provide accurate and timely insights.
