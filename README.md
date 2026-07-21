@@ -3,9 +3,9 @@
   By leveraging Ultra-Wideband (UWB) technology and IoT connectivity, the system delivers accurate, real-time insights for early warning and sustainable water         management. 
 
 💡 Problem Statement
-  Fragmented systems monitor either water level OR quality, not both
-  Delayed data leads to late response in floods or contamination
-  Lack of real-time analytics creates risk for communities and infrastructure
+  Fragmented systems monitor either water level OR quality, not both  
+  Delayed data leads to late response in floods or contamination  
+  Lack of real-time analytics creates risk for communities and infrastructure  
   
 ✅ Our Solution
   A dual-node intelligent monitoring system that:
@@ -68,10 +68,13 @@
     Collaboration with researchers & developers
     Partnerships with environmental agencies
     Opportunities in IoT, Embedded Systems, and Smart Infrastructure
-    
+```
 📬 Contact
+
   Desgined and developed by : Vidharshana Sri S S
   
   Mail : vidharshanasriss.ec25@bitsathy.ac.in
   
   Catch us on : https://www.linkedin.com/in/vidharshanasrisivakumar
+
+```
