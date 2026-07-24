@@ -1,6 +1,6 @@
 🚀 Overview
-  Water-related disasters and contamination events often occur due to lack of real-time, integrated monitoring systems. This project introduces a next-generation     smart   sensing platform that combines high-precision distance measurement and water quality analysis into a unified solution.
-  By leveraging Ultra-Wideband (UWB) technology and IoT connectivity, the system delivers accurate, real-time insights for early warning and sustainable water         management. 
+  Water-related disasters and contamination events often occur due to lack of real-time, integrated monitoring systems. This project introduces a next-generation smart sensing platform that combines high-precision distance measurement and water quality analysis into a unified solution.
+  By leveraging Ultra-Wideband (UWB) technology and IoT connectivity, the system delivers accurate, real-time insights for early warning and sustainable water management. 
 
 💡 Problem Statement  
   Fragmented systems monitor either water level OR quality, not both  
@@ -36,7 +36,7 @@
     Real-time dashboard with alerts  
 
   🛠️ Tech Stack
-    Hardware: ESP32, UWB (DWM1000 / DW3210), pH Sensor, GSM (4G LTE)  
+    Hardware: ESP32, UWB (DWM1000), pH Sensor, GSM (4G LTE)  
     Communication: UWB (ToF), GSM/IoT  
     Power: Solar + Li-ion Battery  
     Software: Embedded C/C++, Web Dashboard  
