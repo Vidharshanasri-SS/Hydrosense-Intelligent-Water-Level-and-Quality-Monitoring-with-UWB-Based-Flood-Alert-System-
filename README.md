@@ -5,7 +5,7 @@
 💡 Problem Statement  
   Fragmented systems monitor either water level OR quality, not both  
   Delayed data leads to late response in floods or contamination  
-  Lack of real-time analytics creates risk for communities and infrastructure    
+  Lack of real-time analytics creates risk for communities and infrastructure      
   
 ✅ Our Solution  
   A dual-node intelligent monitoring system that:  
